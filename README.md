@@ -4,3 +4,4 @@
 - 🤓📚 - Estou aprendendo python.
 - 🍷🗿 - Engenharia de software.
 - 🎮 - jogo no pouco tempo que me sobra :)
+- 📩 - email profissional: lucasdevcafe@gmail.com
