@@ -16,7 +16,7 @@
  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="lucas-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img aling="center" alt="lucas-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img aling="right" alt="Lucas-gif" src=
+ <img aling="right" alt="Lucas-gif" src="![gif](https://user-images.githubusercontent.com/113155030/209885051-518fe793-77c8-4ef8-b396-1bda0e180174.gif)" >
   </div>
            
           
