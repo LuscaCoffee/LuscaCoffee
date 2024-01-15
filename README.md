@@ -1,7 +1,7 @@
 ### Olá eu sou o Lucas Alexandre 🤓🛸🕹️
 
 - 🛸🖥️ - Hoje eu trabalho como técnico em informática.
-- Buscando conhecimento em agúas perigosas(JAVA)
+- 🍵Buscando conhecimento em águas perigosas(JAVA):neckbeard:
 - 🍷🗿 - Engenharia de software.
 - 🎮 - jogo no pouco tempo que me sobra :)
 - 📩 - email profissional: lukasdevcafe@gmail.com
