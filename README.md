@@ -1,9 +1,6 @@
-### Olá eu sou o Lucas Alexandre 🤓🛸🕹️
+### L. 
 
-- 🛸🖥️ - Hoje eu trabalho como técnico em informática.
-- ☕😵‍💫Buscando conhecimento em águas perigosas(JAVA)
-- 🍷🗿 - Engenharia de software.
-- 🎮 - jogo no pouco tempo que me sobra :)
+- Aspirante a Trilha-Redes. 
 - 📩 - email profissional: lukas.alexandre41@gmail.com
 
 
